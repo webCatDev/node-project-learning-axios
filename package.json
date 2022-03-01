@@ -1,0 +1,15 @@
+{
+  "name": "react-odev-1-axios",
+  "version": "1.0.0",
+  "description": "Patika.dev react modülü 1. ödevin kaynak kodunu içerir. Axios ile veri çekmek amaçlanmaktadır.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "webcatdev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
